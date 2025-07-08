@@ -1,6 +1,6 @@
 # 👋 Hola, soy Francisco Pérez
 
-### Desarrollador Full Stack | Especialista en Backend
+### Desarrollador Full Stack | Especialista en Backend | Node.js, NestJS, React & TypeScript
 *Construyo cimientos de software robustos y escalables para que las ideas puedan crecer sin límites.*
 
 <br>
