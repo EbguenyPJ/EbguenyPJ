@@ -18,7 +18,7 @@ I don't collect certificates of things I've read — I ship systems, then go bac
 
 | Project | What it is | Why it matters |
 |---------|------------|----------------|
-| **[nivo-monorepo](https://github.com/EbguenyPJ/nivo-monorepo)** · [live demo](https://nivoapp.vercel.app/) | Multi-tenant SaaS POS — 5 apps + API in one Turborepo | **Database-per-tenant** isolation, offline-first POS (IndexedDB sync), cascading pricing engine, and an **agentic AI assistant with 14 function-calling tools**. Born as my bootcamp capstone leading a team of career-changers in 3 weeks; rebuilt from the ground up, solo. |
+| **[nivo-monorepo](https://github.com/EbguenyPJ/nivo-monorepo)** | Multi-tenant SaaS POS — 5 apps + API in one Turborepo | **Database-per-tenant** isolation, offline-first POS (IndexedDB sync), cascading pricing engine, and an **agentic AI assistant with 14 function-calling tools**. Born as my bootcamp capstone leading a team of career-changers in 3 weeks; rebuilt from the ground up, solo. |
 | **[tallerup-api](https://github.com/EbguenyPJ/tallerup-api)** · [web](https://github.com/EbguenyPJ/tallerup-web) · [mobile](https://github.com/EbguenyPJ/tallerup-movil) | Production ERP for auto-repair franchises (Laravel · Angular · Ionic) | Team project — I led the **core refactor** that turned a rigid linear flow into the recursive service ↔ diagnostic operation a real workshop needs: advisor wizard, versioned quotes, payments, self-service corrections. *(Authorized personal fork.)* |
 | **[vagxpress-api](https://github.com/EbguenyPJ/vagxpress-api)** · [web](https://github.com/EbguenyPJ/vagxpress-web) | Auto-parts retail ERP (Laravel · Angular) | I built the commercial core solo: a **transitive parts-equivalence engine** (graph groups instead of n² annotations), **universal-by-default vehicle-fitment rules**, and **event-driven auto-replenishment** with per-supplier price intelligence. *(Authorized personal fork.)* |
 | **[igem-buap-2025-wiki](https://github.com/EbguenyPJ/igem-buap-2025-wiki)** · [live wiki](https://2025.igem.wiki/buap-puebla/) | 🥇 **Gold medal — iGEM 2025 Grand Jamboree, Paris** | The interactive layer of a synthetic-biology team's wiki: a scroll-driven animated story, a voice-narrated storybook, and **Tochtli — a RAG chatbot on Claude** served from a Cloudflare Worker so a fully static site can safely run AI. |
@@ -93,7 +93,7 @@ I don't collect certificates of things I've read — I ship systems, then go bac
 
 <p align="left">
 <a href="https://www.linkedin.com/in/ebgueny/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:ebguenypj@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:ebgueny.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <div align="center">
